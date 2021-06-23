@@ -1,0 +1,19 @@
+CREATE DATABASE 
+	ON
+	(
+		NAME = 
+		FILENAME = 
+		SIZE =
+		MAXSIZE =
+		FILEGROWTH =
+	)
+	LOG ON
+	(
+		NAME =
+		FILENAME =
+		SIZE = 
+		MAXSIZE =
+		FILEGROWTH =
+	)
+	
+	
